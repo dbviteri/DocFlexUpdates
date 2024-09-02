@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DocFlex</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Mon, 02 Sep 2024 18:44:30 +0100</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dbviteri/DocFlexUpdates/releases/download/prod/DocFlex.dmg" length="1421363" type="application/octet-stream" sparkle:edSignature="DTwY5nTGriJThU34gAgVjP/e1HyjneXO7hw/5Z3aKWcWOSgZIzRnuzOP9Ra5A4J7IFPBXqyqzNGQ8B9ywXOwDQ=="/>
+        </item>
+    </channel>
+</rss>
