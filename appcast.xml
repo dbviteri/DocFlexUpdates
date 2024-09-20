@@ -3,8 +3,8 @@
     <channel>
         <title>DocFlex</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sat, 21 Sep 2024 00:28:03 +0100</pubDate>
+            <title>1.1</title>
+            <pubDate>Sat, 21 Sep 2024 00:49:26 +0100</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
