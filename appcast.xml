@@ -6,9 +6,9 @@
             <title>1.0</title>
             <pubDate>Sat, 21 Sep 2024 00:28:03 +0100</pubDate>
             <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dbviteri/DocFlexUpdates/releases/download/prod/DocFlex.dmg" length="2451523" type="application/octet-stream" sparkle:edSignature="2SLi493Cx4O6xWaM1zAnS1CSfAiglYUNK4Dc5oQG2/FEBWEAZk1he86y8cdZv4wTjqe84V9ySEEJTMrQThbvBg=="/>
+            <enclosure url="https://dbviteri.github.io/DocFlexUpdates/DocFlex.dmg" length="2452307" type="application/octet-stream" sparkle:edSignature="tM/N6W4ilWH5+XIb+/va8DE7pAbnqAnWgQTqU6cSlPb7LXgQOWnmOGWzzhGGzv45BJM+N4pVyojiLWFVOJCFAQ=="/>
         </item>
         <item>
             <title>0.9</title>
