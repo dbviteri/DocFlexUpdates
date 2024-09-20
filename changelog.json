@@ -1,0 +1,7 @@
+{
+  version: "1.0",
+  date: "2024-09-20",
+  changes: [
+    { type: "feature", description: "Initial Release" }
+  ]
+},
