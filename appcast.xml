@@ -8,7 +8,7 @@
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://dbviteri.github.io/DocFlexUpdates/DocFlex.dmg" length="2452307" type="application/octet-stream" sparkle:edSignature="tM/N6W4ilWH5+XIb+/va8DE7pAbnqAnWgQTqU6cSlPb7LXgQOWnmOGWzzhGGzv45BJM+N4pVyojiLWFVOJCFAQ=="/>
+            <enclosure url="https://github.com/dbviteri/DocFlexUpdates/releases/download/prod/DocFlex.dmg" length="2452307" type="application/octet-stream" sparkle:edSignature="tM/N6W4ilWH5+XIb+/va8DE7pAbnqAnWgQTqU6cSlPb7LXgQOWnmOGWzzhGGzv45BJM+N4pVyojiLWFVOJCFAQ=="/>
         </item>
         <item>
             <title>0.9</title>
