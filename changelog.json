@@ -1,6 +1,6 @@
 [
   {
-    "version": "1.0",
+    "version": "1.2",
     "date": "2024-09-20",
     "changes": [
       { "type": "feature", "description": "Initial Release" }
