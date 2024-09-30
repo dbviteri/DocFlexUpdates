@@ -6,10 +6,12 @@
       { "type": "feature", "description": "Initial Release" }
     ]
   },
-  "version": "1.3",
-  "date": "2024-09-30",
-  "changes": [
-    { "type": "feature", "description": "Show license activations" },
-    { "type": "bugfix", "description": "Improve pandoc installation process" }
-  ]
+  {
+    "version": "1.3",
+    "date": "2024-09-30",
+    "changes": [
+      { "type": "feature", "description": "Show license activations" },
+      { "type": "bugfix", "description": "Improve pandoc installation process" }
+    ]
+  }
 ]
