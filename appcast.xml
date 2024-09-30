@@ -3,12 +3,12 @@
     <channel>
         <title>DocFlex</title>
         <item>
-            <title>1.2</title>
-            <pubDate>Sat, 21 Sep 2024 01:57:20 +0100</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <title>1.3</title>
+            <pubDate>Mon, 30 Sep 2024 23:08:39 +0100</pubDate>
+            <sparkle:version>1.3</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dbviteri/DocFlexUpdates/releases/download/prod/DocFlex.dmg" length="2452318" type="application/octet-stream" sparkle:edSignature="EPCSxHFseN5TTm5LxpPRqXo52IoeoY2PMV1E1x36rqqBu6VS7k+o7S8YiVIlnE3qCYJifqjZoPcknLJezZ8kBQ=="/>
+            <enclosure url="https://github.com/dbviteri/DocFlexUpdates/releases/download/prod/DocFlex.dmg" length="2463316" type="application/octet-stream" sparkle:edSignature="cPWZy/AlVtgOc35HGXckiAT9STLgBKxVqmkALXej3RFfJSjZxMr2elcbswnifrOkHWW6ZeG/CtlwoCEFG3OoAQ=="/>
         </item>
     </channel>
 </rss>
